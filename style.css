@@ -164,5 +164,7 @@ small{
 	    color: #fff;
 	    background: linear-gradient(to right ,#333,#777);
 	}
-	
+	footer{
+		text-align: center;
+		bottom: 0;
 	}
